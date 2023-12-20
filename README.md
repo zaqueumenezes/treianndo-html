@@ -1,2 +1,2 @@
-# treianndo-html
+# treinando-html
  aprimorando o html
